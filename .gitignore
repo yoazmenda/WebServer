@@ -1,2 +1,3 @@
 *.xml
 *.iml
+.lock,.bin,.name,.class
