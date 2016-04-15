@@ -1,0 +1,36 @@
+{
+
+		"version": "0.1.0",
+		"command": "gradlew.bat",
+		"isShellCommand": true,
+		"args": [
+			
+		],
+		"tasks": [
+			{
+				"taskName": "build",
+				"suppressTaskName": true,
+				"args": [
+					"build"
+				]
+			},
+			{
+				"taskName": "clean",
+				"suppressTaskName": true,
+				"args": [
+					"clean"
+				]
+			},
+			{
+				"taskName": "run",
+				"suppressTaskName": true,
+				"args": [
+					"bootRun"
+				]
+			}
+		]
+		
+		
+		
+	
+}
